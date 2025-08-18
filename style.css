@@ -1,4 +1,7 @@
 #draw_area {
-    border: solid red;
+    border: solid red 1px;
+    width: 500px;
+    height: 500px;
     display: flex;
+    flex-wrap: wrap;
 }
